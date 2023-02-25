@@ -1,3 +1,3 @@
 # memory-real-height
 
-![avatar](http://baidu.com/pic/doge.png)
+![avatar](images/xpg_d50.jpg)
